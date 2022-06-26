@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gokul-S007](https://github.com/Gokul-S007)
 
-- 💬 Ask me about **React,Python,Mysql,Pandas**
+- 💬 Ask me about **React,Python,Mysql,Nodejs**
 
 - 📫 How to reach me **gokulmani682001@gmail.com**
 
